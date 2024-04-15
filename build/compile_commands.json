@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/pi/pi_camera_stream/build",
-  "command": "/usr/bin/c++  -I/usr/include/libcamera -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/camera_stream.dir/camera_stream.cpp.o -c /home/pi/pi_camera_stream/camera_stream.cpp",
-  "file": "/home/pi/pi_camera_stream/camera_stream.cpp"
-}
-]

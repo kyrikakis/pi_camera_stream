@@ -1,3 +1,0 @@
-/home/pi/pi_camera_stream/build/CMakeFiles/rebuild_cache.dir
-/home/pi/pi_camera_stream/build/CMakeFiles/edit_cache.dir
-/home/pi/pi_camera_stream/build/CMakeFiles/camera_stream.dir
